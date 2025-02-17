@@ -2,7 +2,13 @@
 
 ![A cool image of a Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## Header 2
+## Code Blocks 
+
+``` python
+x = 5
+y = 4
+z = x+y
+```
 
 ### Header 3
 
