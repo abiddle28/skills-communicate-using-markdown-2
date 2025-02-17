@@ -10,7 +10,12 @@ y = 4
 z = x+y
 ```
 
-### Header 3
+### Task List Example
+
+- [x] This task is completed
+- [x] This task is also completed
+- [ ] This task is pending
+- [ ] This task will never be done
 
 #### Header 4
 
